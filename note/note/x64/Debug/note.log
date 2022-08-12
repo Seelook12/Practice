@@ -1,0 +1,3 @@
+﻿  note.cpp
+c:\practice\note\note\note.cpp(30): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  note.vcxproj -> C:\practice\note\x64\Debug\note.exe
